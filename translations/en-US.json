@@ -76,23 +76,9 @@
         }
     },
     "messages": {
-        "console.devToolsDescription": "跳过 cURL 并使用 JSON 接口在控制台中处理您的数据。",
-        "console.devToolsTitle": "与 OpenSearch API 进行交互",
-        "core.ui.welcomeMessage": "正在加载 OpenSearch",
-	      "core.ui.opensearchDashboardsNavList.label": "OpenSearchi22 Dashboards",
-        "dashboard.featureCatalogue.dashboardSubtitle": "在控制板中分析数据。",
-        "discover.discoverSubtitle": "搜索和查找数据分析结果。",
-        "home.addData.sectionTitle": "获取你的数据",
-        "home.breadcrumbs.homeTitle": "主页",
-        "home.header.title": "欢迎归来",
-        "home.manageData.sectionTitle": "管理你的数据",
-        "home.tutorialDirectory.featureCatalogueDescription": "从热门应用和服务中采集数据。",
-        "home.tutorialDirectory.featureCatalogueTitle": "添加数据",
-        "opensearchDashboardsOverview.opensearchDashboards.solution.subtitle": "可视化和分析",
-        "opensearch-dashboards-react.osdOverviewPageHeader.addDataButtonLabel": "添加数据",
-        "opensearch-dashboards-react.osdOverviewPageHeader.devToolsButtonLabel": "开发工具",
-        "opensearch-dashboards-react.osdOverviewPageHeader.stackManagementButtonLabel": "管理",
-        "opensearch-dashboards-react.pageFooter.appDirectoryButtonLabel": "查看应用目录",
-        "opensearch-dashboards-react.pageFooter.changeHomeRouteLink": "登录时显示不同页面"
+        "console.devToolsDescription": "Skip cURL and use a JSON interface to work with your data in Console.",
+        "console.devToolsTitle": "Interact with the OpenSearch API",
+        "core.ui.welcomeMessage": "Loading ${applicationTitle}",
+	"core.ui.opensearchDashboardsNavList.label": "OpenSearchi22 Dashboards"
     }
 }
