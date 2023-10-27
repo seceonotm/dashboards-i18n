@@ -5,6 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "yarn plugin-helpers build",
+    "plugin-helpers": "node ../../scripts/plugin_helpers",
+    "osd": "node ../../scripts/osd",
+    "lint:es": "node ../../scripts/eslint",
     "lint": "node ../../scripts/eslint ."
   },
   "repository": {
