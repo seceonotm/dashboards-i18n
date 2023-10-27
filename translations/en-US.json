@@ -79,6 +79,6 @@
         "console.devToolsDescription": "Skip cURL and use a JSON interface to work with your data in Console.",
         "console.devToolsTitle": "Interact with the OpenSearch API",
         "core.ui.welcomeMessage": "Loading ${applicationTitle}",
-	"core.ui.opensearchDashboardsNavList.label": "OpenSearchi22 Dashboards"
+	"core.ui.opensearchDashboardsNavList.label": "Analytics"
     }
 }
